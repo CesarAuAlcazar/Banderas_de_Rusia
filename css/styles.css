@@ -1,0 +1,145 @@
+:root {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(../img/Federal_subjects_of_Russia_\(by_type\).svg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: red;
+    text-shadow: -2px 0 black, 0 2px black, 0px 0 black, 0px 0 black;
+    text-align: center;
+    font-size: 4rem;
+}
+
+h2 {
+    color: black;
+    font-size: 2rem;
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    border: 1px solid black;
+    display: block;
+    margin: auto;
+}
+
+td {
+    width: 300px;
+    border: 1px solid black;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+.nombre {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding-top: 15rem;
+    text-align: center;
+}
+
+.Adygea {
+    background-image: url('../img/Republicas/Flag_of_Adygea.svg.png');
+}
+
+.Altai {
+    background-image: url('../img/Republicas/Flag_of_Altai_Republic.svg.png');
+}
+
+.Bashkortostan {
+    background-image: url('../img/Republicas/Flag_of_Bashkortostan.svg.png');
+}
+
+.Buryatia {
+    background-image: url('../img/Republicas/Flag_of_Buryatia.svg.png');
+}
+
+.Chuvashia {
+    background-image: url('../img/Republicas/Flag_of_Chuvashia.svg.png');
+}
+
+.Crimea {
+    background-image: url('../img/Republicas/Flag_of_Crimea.svg.png');
+}
+
+.Dagestan {
+    background-image: url('../img/Republicas/Flag_of_Dagestan.svg.png');
+}
+
+.Donetsk {
+    background-image: url('../img/Republicas/Flag_of_Donetsk_Peoples_Republic.svg.png');
+}
+
+.Ingushetia {
+    background-image: url('../img/Republicas/Flag_of_Ingushetia.svg.png');
+}
+
+.Kabardino-Balkaria {
+    background-image: url('../img/Republicas/Flag_of_Kabardino-Balkaria.svg.png');
+}
+
+.Kalmykia {
+    background-image: url('../img/Republicas/Flag_of_Kalmykia.svg.png');
+}
+
+.Karachay-Cherkessia {
+    background-image: url('../img/Republicas/Flag_of_Karachay-Cherkessia.svg.png');
+}
+
+.Karelia {
+    background-image: url('../img/Republicas/Flag_of_Karelia.svg.png');
+}
+
+.Khakassia {
+    background-image: url('../img/Republicas/Flag_of_Khakassia.svg.png');
+}
+
+.Komi {
+    background-image: url('../img/Republicas/Flag_of_Komi.svg.png');
+}
+
+.Mari_El {
+    background-image: url('../img/Republicas/Flag_of_Mari_El.svg.png');
+}
+
+.Mordovia {
+    background-image: url('../img/Republicas/Flag_of_Mordovia.svg.png');
+}
+
+.North_Ossetia {
+    background-image: url('../img/Republicas/Flag_of_North_Ossetia.svg.png');
+}
+
+.Sakha {
+    background-image: url('../img/Republicas/Flag_of_Sakha.svg.png');
+}
+
+.Tartarstan {
+    background-image: url('../img/Republicas/Flag_of_Tatarstan.svg.png');
+}
+
+.Chechen_Republic {
+    background-image: url('../img/Republicas/Flag_of_the_Chechen_Republic.svg.png');
+}
+
+.Lugansk {
+    background-image: url('../img/Republicas/Flag_of_the_Luhansk_Peoples_Republic.svg.png');
+}
+
+.Tuvan {
+    background-image: url('../img/Republicas/Flag_of_Tuva.svg.png');
+}
+
+.Udmurtia {
+    background-image: url('../img/Republicas/Flag_of_Udmurtia.svg.png');
+}
