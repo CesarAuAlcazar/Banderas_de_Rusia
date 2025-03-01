@@ -6,8 +6,7 @@
 
 body {
     background-image: url(../img/Federal_subjects_of_Russia_\(by_type\).svg.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    
 }
 
 h1 {
@@ -38,8 +37,6 @@ td {
     background-repeat: no-repeat;
     background-color: rgba(0, 0, 0, 0.5);
 }
-
-
 
 .nombre {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
