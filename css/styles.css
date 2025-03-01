@@ -45,6 +45,8 @@ td {
     text-align: center;
 }
 
+/* Tabla 1 Repúblicas */
+
 .Adygea {
     background-image: url('../img/Republicas/Flag_of_Adygea.svg.png');
 }
@@ -139,4 +141,76 @@ td {
 
 .Udmurtia {
     background-image: url('../img/Republicas/Flag_of_Udmurtia.svg.png');
+}
+
+/* Tabla 2 Krais */
+
+.tabla2 {
+    width: 80%;
+    border: 1px solid black;
+    display: block;
+    margin: auto;
+}
+
+.celda2 {
+    width: 750px;
+    border: 1px solid black;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.Altai_Krai {
+    background-image: url('../img/Krais/Flag_of_Altai_Krai.svg.png');
+}
+
+.Kanchatka_Krai {
+    background-image: url('../img/Krais/Flag_of_Kamchatka_Krai.svg.png');
+}
+
+.Khabarovsk_Krai {
+    background-image: url('../img/Krais/Flag_of_Khabarovsk_Krai.svg.png');
+}
+
+.Krasnodar_Krai {
+    background-image: url('../img/Krais/Flag_of_Krasnodar_Krai.svg.png');
+}
+
+.Krasnoyarsk_Krai {
+    background-image: url('../img/Krais/Flag_of_Krasnoyarsk_Krai.svg.png');
+}
+
+.Permsky_Krai {
+    background-image: url('../img/Krais/Flag_of_Perm_Krai.svg.png');
+}
+
+.Primorsky_Krai {
+    background-image: url('../img/Krais/Flag_of_Primorsky_Krai.svg.png');
+}
+
+.Stavropol_Krai {
+    background-image: url('../img/Krais/Flag_of_Stavropol_Krai.svg.png');
+}
+
+.Zabaykalsky_Krai {
+    background-image: url('../img/Krais/Flag_of_Zabaykalsky_Krai.svg.png');
+}
+
+/* Tabla 3 Óblast*/
+
+.tabla3 {
+    width: 80%;
+    border: 1px solid black;
+    display: block;
+    margin: auto;
+}
+
+.celda3 {
+    width: 750px;
+    border: 1px solid black;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: rgba(0, 0, 0, 0);
 }
